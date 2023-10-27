@@ -1,1 +1,3 @@
 # Intro_KI_Oblig2
+
+We suggest that a regression algorithm fits better for predicting the price of the stock since regression algorithms use numeric values to calculate and determine an outcome. Meanwhile classification algorithms works better if you want to differenciate between two different types, f.e is it a picture of a cat or a dog. The stock market consisting of prices of stocks and a lot of numbers it just makes more sense to use regression. We can use the values of a stock at a specific date as data to train the algorithms precision and to test its accuracy and make new predictions in the future.
